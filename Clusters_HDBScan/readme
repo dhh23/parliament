@@ -2,3 +2,5 @@
 minclustersize_2numberofsamples_5epsilon_2.6.csv 
 this one has 30% outliers while still having a lot of clusters (27) 
 
+minclustersize_2.csv 
+60% outliers, but much more clusters 
