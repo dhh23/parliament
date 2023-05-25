@@ -54,7 +54,7 @@ print("starting clustering")
 
 cluster_labels = clusterer.fit_predict(list(embeddings_subdic.values()))
 
-keys_list = list(embeddings.keys())
+keys_list = list(embeddings_subdic.keys())
 print(cluster_labels)
 
 #now write into csv
