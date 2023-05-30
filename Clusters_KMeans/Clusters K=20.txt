@@ -1,0 +1,56 @@
+Cluster 11: 35753 speeches
+Top words: ['motions', 'subsection', 'insert', 'forthwith', 'amendable', 'affirmative', 'lieu', 'prerogative', '118', 'fridays', 'manuscript', 'sentience', 'hc', 'justiciable', '83m', 'icgs', 'subsections', 'sifting', 'prelegislative', 'pong']
+
+Cluster 3: 35740 speeches
+Top words: ['maiden', 'duke', 'tributes', 'worsley', 'tessa', 'amess', 'gerald', 'highness', 'cheryl', 'holderness', 'humour', 'aylesford', 'bsl', 'somme', 'poppy', 'commemorations', 'walter', 'serjeant', 'elevation', '90th']
+
+Cluster 14: 34146 speeches
+Top words: ['sinn', 'féin', 'referendums', 'holyrood', 'turnout', 'nationalists', 'nationalist', 'polls', 'brexiteers', 'sturgeon', 'vow', 'confirmatory', 'ukip', 'brexiteer', 'catalonia', 'msps', 'greens', 'fein', 'drakeford', 'federalism']
+
+Cluster 9: 31036 speeches
+Top words: ['rail', 'bus', 'broadband', 'trains', 'hs2', 'airport', 'railway', 'heathrow', 'connectivity', 'powerhouse', 'buses', 'railways', 'electrification', 'superfast', 'cycling', 'highways', 'crossrail', 'congestion', 'fares', 'runway']
+
+Cluster 17: 30562 speeches
+Top words: ['hospital', 'patients', 'vaccine', 'cancer', 'doctors', 'hospitals', 'virus', 'vaccination', 'nurses', 'patient', 'clinical', 'gps', 'gp', 'vaccines', 'disease', 'vaccinated', 'infection', 'junior', 'diagnosis', 'ambulance']
+
+Cluster 6: 30334 speeches
+Top words: ['huawei', 'whirlpool', 'receiver', 'sfo', 'asda', 'groceries', 'vendors', 'subcontractors', 'interserve', 'lotteries', 'gamblers', 'tumble', 'nda', 'takeovers', 'finder', 'rpa', 'opss', 'insurer', 'cbils', 'grg']
+
+Cluster 13: 29223 speeches
+Top words: ['frictionless', 'wto', 'euratom', 'eea', 'unfettered', 'reciprocal', 'eurozone', 'barnier', 'schengen', 'eu27', 'cptpp', 'negotiators', 'michel', 'europol', 'ecj', 'accession', 'tusk', 'efta', 'friction', 'ceta']
+
+Cluster 0: 28965 speeches
+Top words: ['universal', 'wage', 'credits', 'pensioners', 'earning', 'taper', 'workless', 'enrolment', 'earners', 'pensioner', 'jobseeker', 'rowntree', 'trussell', '25s', 'savers', 'earns', 'distributional', 'enrolled', 'uprated', 'unclaimed']
+
+Cluster 2: 26148 speeches
+Top words: ['asylum', 'religious', 'hong', 'kong', 'persecution', 'christians', 'holocaust', 'genocide', 'religion', 'muslim', 'jewish', 'rohingya', 'seekers', 'muslims', 'xinjiang', 'kashmir', 'antisemitism', 'hatred', 'rwanda', 'semitism']
+
+Cluster 4: 22305 speeches
+Top words: ['russia', 'syria', 'nato', 'russian', 'daesh', 'yemen', 'weapons', 'saudi', 'iran', 'iraq', 'putin', 'afghanistan', 'arabia', 'syrian', 'isil', 'troops', 'assad', 'civilians', 'civilian', 'libya']
+
+Cluster 18: 20633 speeches
+Top words: ['prison', 'prisons', 'policing', 'offenders', 'prisoners', 'rape', 'sentences', 'knife', 'cps', 'sentencing', 'reoffending', 'probation', 'custody', 'constable', 'magistrates', 'assaults', 'offender', 'parole', 'offending', 'prosecutors']
+
+Cluster 5: 17339 speeches
+Top words: ['schools', 'teachers', 'pupils', 'educational', 'teaching', 'colleges', 'pupil', 'academy', 'academies', 'grammar', 'maths', 'curriculum', 'teacher', 'ofsted', 'attainment', 'nursery', 'headteachers', 'exams', 'fe', 'classroom']
+
+Cluster 12: 15075 speeches
+Top words: ['carbon', 'emissions', 'wind', 'renewable', 'renewables', 'electricity', 'solar', 'cop26', 'coal', 'hydrogen', 'storage', 'tidal', 'onshore', 'fossil', '2050', 'diesel', 'fuels', 'grid', 'emission', 'biodiversity']
+
+Cluster 7: 10210 speeches
+Top words: ['landlords', 'tenants', 'leaseholders', 'rented', 'leasehold', 'starter', 'builders', 'remediation', 'renters', 'homeowners', 'eviction', 'leaseholder', 'renting', 'freeholders', 'freehold', 'ews1', 'freeholder', 'lha', 'habitation', 'commonhold']
+
+Cluster 15: 6926 speeches
+Top words: ['courtesies', 'countdown', 'sanitisation', 'annunciators', 'verbosity', 'delectable', 'inebriated', 'reprimanding', 'retraction', 'lickspittle', 'orations', 'matchless', 'slanging', 'tobias', 'uncomplimentary', 'rhetorician', 'bradlaugh', 'eyeline', 'undershoot', 'gibbons']
+
+Cluster 19: 3897 speeches
+Top words: ['rutnam', 'hennessy', 'zuma', 'jammeh', 'antonios', 'nearish', 'nnamdi', 'quack', 'inveterate', 'arizona', 'gaffe', 'nothings', 'maseribane', 'adriel', 'contortionist', 'smirked', 'unrecoverable', 'emoluments', 'cha', 'firtash']
+
+Cluster 10: 1250 speeches
+Top words: ['euna', 'antiquarian', 'flamingos', 'carragher', 'mynd', 'maurillia', 'holywood', 'invincibles', 'trampolining', 'cherokees', 'safaris', 'sleigh', 'nfl', 'wadih', 'snip', 'quails', 'wilf', 'nitrite', 'georgiera', 'kristalina']
+
+Cluster 16: 18 speeches
+Top words: []
+
+Cluster 1: 2 speeches
+Top words: []
