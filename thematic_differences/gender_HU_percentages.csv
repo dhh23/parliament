@@ -1,6 +1,5 @@
-topic,Fidesz-frakció,JOBBIK-frakció,OTHER,keywords
-0,75.0,33.3,45.5,"['európai', 'magyarország', 'migráció', 'elnök', 'egyezmény', 'taps', 'kormánypártok', 'ház', 'nők', 'gazdasági']"
-1,5.0,16.7,22.1,"['fog', '40', 'magyar', 'nyugdíjba', 'tudják', 'alaptörvény', 'tudományos', 'tisztelt', 'országgyűlési', 'milliárd']"
-2,10.0,0.0,13.0,"['józsef', 'kínai', 'egyenlő', 'viktor', 'kommunista', 'párt', 'tudjuk', 'magyarellenes', '540', 'diktatúra']"
-3,0.0,41.7,10.4,"['asszony', 'magyar', 'egyezményt', 'erőszak', 'facebook', 'gondolom', 'szeptember', 'hazudik', 'ellenzéki', 'viktor']"
-4,10.0,8.3,9.1,"['német', 'pedofília', 'kereszténység', 'liberális', 'elnök', 'élet', 'hölgyeim', 'melegfelvonulás', 'lgbti', 'jogainak']"
+topic,Fidesz-KDNP,OTHER,Opposition,keywords
+0,60.4,26.4,25.0,"['magyarország', 'európai', 'taps', 'ház', 'kormánypártok', 'elnök', 'nők', 'migráció', 'törvény', 'társadalmi']"
+1,20.8,37.7,37.5,"['magyar', 'erőszak', 'fidesz', 'józsef', 'kínai', 'politikai', 'dr', 'családon', 'nők', 'tudják']"
+2,8.3,28.3,25.0,"['fog', 'magyar', '40', 'nyugdíjba', 'tudják', 'alaptörvény', 'tisztelt', 'tudományos', 'országgyűlési', 'milliárd']"
+3,10.4,7.5,12.5,"['német', 'homoszexuális', 'pedofília', 'kijelentések', 'kereszténység', 'liberális', 'élet', 'hölgyeim', 'jogainak', 'melegfelvonulás']"
