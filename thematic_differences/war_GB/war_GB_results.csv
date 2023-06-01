@@ -1,11 +1,11 @@
 topic,keywords,tc.CON,tc.LAB,tc.SNP,tc.OTHER,pf.CON,pf.LAB,pf.SNP,pf.OTHER,s.CON,s.LAB,s.SNP,s.OTHER
-0,"['care', 'staff', 'testing', 'vaccination', 'clinical', 'ppe', '19', 'england', 'restrictions', 'trusts']",58.0,31.4,5.4,5.2,19.3,23.2,14.0,16.7,0.25,-0.22,-0.2,-0.29
-1,"['ukrainians', 'sanctions', 'invasion', 'president', 'visa', 'defensive', 'eastern', 'kremlin', 'tank', 'zelensky']",62.6,25.0,8.5,4.0,14.0,12.4,14.8,8.5,-0.13,-0.3,-0.22,-0.27
-2,"['isil', 'chemical', 'raqqa', 'airstrikes', 'strikes', 'moderate', 'raf', 'forces', 'region', 'campaign']",63.2,22.3,10.5,4.1,12.6,9.9,16.3,7.7,-0.1,-0.28,-0.34,-0.26
-3,"['read', 'presentation', '57', 'printed', 'leader', 'constituency', 'maiden', 'friday', 'chope', 'christopher']",54.3,29.3,11.3,5.1,7.6,9.2,12.5,6.8,0.39,0.25,0.2,0.33
-4,"['yemen', 'ceasefire', 'hodeidah', 'cluster', 'resolution', 'munitions', 'parties', 'aid', 'hadi', 'violations']",51.4,33.0,12.1,3.5,7.5,10.7,13.8,4.9,-0.05,-0.27,-0.41,-0.19
-5,"['antisocial', 'frontline', 'emergency', 'funding', 'precept', 'cuts', 'constables', 'pccs', 'communities', 'yorkshire']",57.3,36.9,3.9,1.9,8.2,11.7,4.4,2.6,0.13,-0.34,-0.14,0.17
-6,"['frigates', 'royal', 'clyde', '26', 'carrier', 'auxiliary', 'competition', 'yards', 'solid', 'rosyth']",69.8,17.9,8.9,3.4,9.6,5.5,9.6,4.5,0.35,-0.12,-0.26,-0.22
-7,"['ajax', 'capability', 'nato', 'review', 'expenditure', 'cyber', 'sdsr', 'commitment', 'aircraft', 'target']",68.8,21.6,6.8,2.7,10.6,7.4,8.3,4.0,0.15,-0.21,-0.17,-0.02
-8,"['sinn', 'ulster', 'troubles', 'stormont', 'served', 'psni', 'legacy', 'paramilitary', 'forces', 'amnesty']",41.8,11.3,2.2,44.7,3.8,2.3,1.5,39.0,-0.06,0.14,0.19,-0.06
-9,"['recruitment', 'capita', 'regular', 'forces', 'hc', 'reservists', '000', 'target', 'accommodation', 'retain']",59.6,30.1,5.4,4.9,6.8,7.6,4.8,5.4,0.19,-0.48,-0.2,0.0
+0,"['nhs', 'frontline', 'local', 'covid', 'tax', 'need', 'work', 'million', 'children', 'mental']",57.7,30.5,6.3,5.5,23.8,28.8,20.6,23.7,0.26,-0.27,-0.24,-0.2
+1,"['veterans', 'covenant', 'northern', 'royal', 'families', 'serving', 'amendment', 'defence', 'years', 'somme']",58.0,20.5,7.5,14.1,12.8,10.4,13.0,32.6,0.22,0.07,-0.04,-0.01
+2,"['turkish', 'airstrikes', 'aleppo', 'chemical', 'coalition', 'raqqa', 'ceasefire', 'defeat', 'forces', 'prime']",60.5,25.1,9.9,4.6,12.6,12.0,16.2,10.0,-0.1,-0.31,-0.38,-0.33
+3,"['ukraine', 'sanctions', 'aggression', 'alliance', 'security', 'eastern', 'right', 'support', 'foreign', 'economic']",66.1,22.9,7.5,3.4,13.4,10.6,11.9,7.3,-0.08,-0.3,-0.2,-0.25
+4,"['policing', 'frontline', 'victims', 'sexual', 'funding', 'emergency', 'local', 'services', 'grenfell', 'knife']",58.5,34.6,4.1,2.8,8.2,11.1,4.5,4.1,0.13,-0.34,-0.18,-0.08
+5,"['hon', 'constituency', 'eu', 'friend', 'debate', 'prime', 'maiden', 'leader', 'people', 'years']",54.4,28.8,11.3,5.5,6.5,7.9,10.7,7.0,0.33,0.13,0.08,0.14
+6,"['shipbuilding', 'type', 'clyde', 'procurement', 'strategy', 'yards', 'patrol', 'uk', '26', 'capability']",71.3,17.4,8.1,3.2,7.9,4.4,7.0,3.7,0.33,-0.13,-0.21,-0.29
+7,"['yemen', 'ceasefire', 'hodeidah', 'resolution', 'aid', 'hadi', 'parties', 'cluster', 'united', 'munitions']",53.2,32.4,10.8,3.6,5.4,7.5,8.6,3.8,-0.05,-0.28,-0.37,-0.17
+8,"['genocide', 'burundi', 'christians', 'trade', 'amendment', 'armenian', 'courts', 'human', 'yazidi', 'nigerian']",63.0,24.4,5.4,7.2,3.7,3.3,2.5,4.5,-0.1,-0.22,-0.17,0.02
+9,"['nato', 'review', 'billion', 'expenditure', 'commitment', 'integrated', 'cyber', 'aircraft', 'target', 'size']",68.0,21.2,7.2,3.6,5.7,4.1,4.8,3.2,0.16,-0.14,-0.3,-0.19
