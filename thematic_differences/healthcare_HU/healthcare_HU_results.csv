@@ -1,8 +1,11 @@
 topic,keywords,tc.Fidesz-KDNP,tc.Opposition,tc.OTHER,pf.Fidesz-KDNP,pf.Opposition,pf.OTHER,s.Fidesz-KDNP,s.Opposition,s.OTHER
-0,"['magyarország', 'elnök', 'koronavírus', 'taps', 'egészségügyi', 'gazdasági', 'kormánypártok', 'tudjuk', 'ház', 'szeretném']",50.0,12.0,38.0,36.2,23.9,31.2,-0.16,-0.53,-0.45
-1,"['tisztelt', 'milliárd', 'elnök', 'orvos', 'taps', 'dolgozók', '2010', 'fontos', 'magyarországon', 'ház']",46.9,18.9,34.2,33.9,37.7,28.0,-0.27,-0.58,-0.54
-2,"['tisztelt', 'törvény', 'államtitkár', 'emberek', 'fog', 'szeretném', 'magyarországon', 'európai', 'politikai', 'tudjuk']",38.8,19.2,41.9,17.2,23.5,21.0,-0.27,-0.47,-0.45
-3,"['magyar', '2017', 'jövő', 'költségvetésben', 'családok', 'szociális', 'millió', 'gondolom', 'módosító', 'fog']",33.8,19.6,46.6,5.7,9.2,9.0,0.1,-0.49,-0.45
-4,"['környezetvédelmi', 'műanyag', 'európai', 'program', 'élelmiszerlánc', 'elnök', 'gmo', 'magyar', 'biológiai', 'törvény']",40.3,7.8,51.9,2.8,1.5,4.1,0.16,-0.59,-0.57
-5,"['önkormányzat', 'élők', 'tisztelt', 'elnök', 'fontos', 'fejlesztési', 'bizony', 'dél', 'modern', 'taps']",37.1,6.9,56.0,2.3,1.2,4.0,0.25,-0.13,-0.4
-6,"['minimálbér', 'szociális', '2010', 'korhatár', 'magyarországon', 'nők', 'fidesz', 'elnök', 'százalékos', 'nyugdíjrendszert']",34.4,21.5,44.1,1.7,3.0,2.5,-0.4,-0.4,-0.51
+0,"['milliárd', 'tisztelt', 'elnök', 'kórházi', 'taps', 'egyébként', '2010', 'sürgősségi', 'dolgozók', 'országos']",41.7,21.0,37.2,21.4,29.1,21.4,-0.17,-0.59,-0.53
+1,"['koronavírus', 'védekezés', 'magyarország', 'egészségügyi', 'elnök', 'baloldal', 'taps', 'rendkívüli', 'kormánypártok', 'gazdaság']",62.5,9.1,28.4,24.3,9.5,12.4,-0.13,-0.52,-0.4
+2,"['törvény', 'magyar', 'tisztelt', 'szeretném', 'emberek', 'fog', 'ellenzéki', 'tudja', 'javaslat', 'országgyűlés']",33.1,22.5,44.5,12.0,21.9,18.0,-0.26,-0.44,-0.41
+3,"['európai', 'magyarország', 'emberek', 'miniszterelnök', 'szeretném', 'gazdasági', 'viktor', 'tudjuk', 'taps', 'dr']",37.2,14.0,48.8,10.6,10.8,15.6,-0.19,-0.52,-0.52
+4,"['tisztelt', 'milliárd', 'magyarországon', 'jobbik', 'elnök', 'orvos', '2010', 'taps', 'dolgozók', 'szocialista']",59.5,14.0,26.5,13.3,8.4,6.6,-0.41,-0.58,-0.61
+5,"['költségvetés', 'tisztelt', 'jövő', 'magyarország', 'szociális', '2016', 'uniós', 'millió', 'családi', 'fidesz']",41.3,14.3,44.4,5.4,5.1,6.5,-0.03,-0.48,-0.47
+6,"['tisztelt', 'elnök', 'dr', 'soraiban', 'taps', 'kormánypártok', 'európai', 'magyarországon', 'milliárd', 'fog']",47.3,12.0,40.7,4.7,3.2,4.5,-0.6,-0.47,-0.6
+7,"['kormány', 'költségvetésben', 'magyar', '2017', 'gondolom', 'szociális', 'jövő', 'millió', 'módosító', 'családok']",25.6,26.1,48.3,3.1,8.6,6.6,-0.0,-0.55,-0.46
+8,"['önkormányzat', 'élők', 'tisztelt', 'elnök', 'fejlesztési', 'bizony', 'jobbik', 'dél', 'modern', 'millió']",37.0,8.7,54.3,2.8,1.7,4.6,0.2,-0.31,-0.43
+9,"['élelmiszerlánc', 'termőföld', 'elnök', 'egészségre', 'glifozát', 'határérték', 'atomenergia', 'uniós', 'magyar', 'szennyezett']",38.2,9.1,52.7,2.5,1.6,3.8,0.19,-0.62,-0.61
