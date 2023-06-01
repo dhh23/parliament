@@ -1,0 +1,11 @@
+topic,keywords,tc.CON,tc.LAB,tc.SNP,tc.OTHER,pf.CON,pf.LAB,pf.SNP,pf.OTHER,s.CON,s.LAB,s.SNP,s.OTHER
+0,"['devolution', 'parliament', 'frameworks', 'voted', 'administrations', 'consent', 'grab', 'holyrood', 'scots', 'remain']",40.7,6.6,50.0,2.8,11.1,5.6,53.8,4.6,0.03,-0.22,-0.25,-0.33
+1,"['belfast', 'republic', 'executive', 'consent', 'integrity', 'unfettered', 'hard', 'joint', 'stormont', 'market']",53.7,15.3,5.6,25.3,15.7,14.0,6.5,45.3,0.13,-0.3,-0.29,-0.26
+2,"['animal', 'standards', 'labelling', 'payments', 'wine', 'farms', 'sentience', 'ivory', 'ban', 'imports']",64.7,17.2,9.6,8.5,10.8,8.9,6.3,8.7,0.26,-0.35,-0.25,-0.19
+3,"['nationals', 'applications', 'residency', 'deadline', 'reassurance', 'family', 'person', 'bargaining', 'declaratory', 'fee']",57.6,20.4,15.7,6.3,11.1,12.3,11.9,7.3,0.26,-0.35,-0.35,-0.28
+4,"['referendum', 'constituents', 'remain', 'decision', '2016', 'british', 'deliver', 'people', 'say', 'deal']",61.7,26.6,4.6,7.2,13.0,17.5,3.8,9.2,-0.09,-0.25,-0.53,-0.45
+5,"['vessels', 'cfp', 'stocks', 'fishery', 'common', 'communities', 'grimsby', 'sustainable', 'inshore', 'quotas']",70.7,11.1,10.3,7.9,7.9,3.9,4.5,5.4,0.15,-0.13,-0.39,-0.23
+6,"['chancellor', 'growth', 'fiscal', 'obr', 'billion', 'housing', 'forecasts', 'cuts', '2010', 'rate']",53.6,31.6,10.0,4.8,7.6,13.9,5.6,4.2,0.04,-0.42,-0.42,-0.33
+7,"['free', 'trade', 'agreements', 'wto', 'comprehensive', 'india', 'rest', 'bilateral', 'liberalisation', 'frictionless']",75.3,16.4,4.7,3.6,15.7,10.7,3.9,4.6,0.18,-0.25,-0.4,-0.22
+8,"['wales', 'devolution', 'cymru', 'levelling', 'fund', 'ynys', 'clwyd', 'jones', 'tidal', 'st']",45.5,30.8,4.7,19.0,3.2,6.8,1.3,8.2,0.32,-0.05,-0.06,-0.15
+9,"['maiden', 'speeches', 'predecessor', 'west', 'pleasure', 'mp', 'community', 'congratulate', 'southend', 'bath']",55.0,30.2,8.9,5.9,3.8,6.5,2.4,2.5,0.45,0.35,0.21,0.46

@@ -1,0 +1,11 @@
+topic,keywords,tc.CON,tc.LAB,tc.SNP,tc.OTHER,pf.CON,pf.LAB,pf.SNP,pf.OTHER,s.CON,s.LAB,s.SNP,s.OTHER
+0,"['parity', 'camhs', 'children', 'counselling', 'physical', 'wellbeing', 'stigma', 'therapies', 'access', 'early']",59.7,28.2,3.1,8.9,18.2,17.2,11.2,27.7,0.27,-0.33,-0.22,-0.2
+1,"['levy', 'integration', 'caring', 'precept', 'elderly', 'delayed', 'authorities', 'reform', 'nics', 'billion']",56.8,34.5,4.3,4.5,11.2,13.6,9.9,8.9,0.18,-0.46,-0.32,-0.25
+2,"['lockdown', 'coronavirus', 'variants', 'isolate', 'measures', 'testing', 'transmission', '19', 'symptoms', 'countries']",65.7,23.8,5.9,4.5,12.7,9.2,13.5,8.8,-0.0,-0.41,-0.32,-0.44
+3,"['pupil', 'colleges', 'disadvantaged', 'headteachers', 'attainment', 'exams', 'ofsted', 'funding', 'special', 'young']",59.5,34.0,0.9,5.5,8.4,9.5,1.6,7.8,0.23,-0.29,-0.13,-0.28
+4,"['furlough', 'businesses', 'coronavirus', 'retention', 'loan', 'chancellor', 'bounce', 'schemes', 'aviation', 'small']",54.0,28.6,10.3,7.1,10.1,10.6,22.7,13.5,0.27,-0.35,-0.24,-0.12
+5,"['sports', 'drinks', 'childhood', 'advertising', 'overweight', 'grassroots', 'active', 'sugary', 'fa', 'calorie']",69.3,19.7,7.1,4.0,6.8,3.8,8.2,3.9,0.21,-0.17,-0.08,-0.27
+6,"['trade', 'brexit', 'customs', 'agreements', 'citizens', 'withdrawal', 'directive', 'article', 'migration', 'movement']",40.0,44.1,8.6,7.3,5.7,12.6,14.5,10.7,0.1,-0.3,-0.46,-0.4
+7,"['speech', 'predecessor', 'east', 'deputy', 'queen', 'tribute', 'southend', 'represent', 'parliament', 'thank']",56.3,33.2,5.1,5.4,5.8,6.8,6.3,5.7,0.45,0.47,0.44,0.44
+8,"['questions', 'speaker', 'raise', 'ministers', 'adjournment', 'strep', 'physics', 'state', 'aware', 'mr']",72.4,21.1,3.0,3.5,12.8,7.4,6.3,6.2,0.23,-0.3,-0.43,-0.18
+9,"['privatisation', 'billion', 'registry', 'plan', 'extra', 'deficit', 'simon', 'conservatives', 'competition', 'hospitals']",58.4,33.2,3.5,4.8,8.2,9.3,5.8,6.9,0.05,-0.44,-0.5,-0.24
