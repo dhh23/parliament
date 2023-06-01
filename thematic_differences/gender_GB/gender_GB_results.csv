@@ -1,11 +1,11 @@
 topic,keywords,tc.CON,tc.LAB,tc.SNP,tc.OTHER,pf.CON,pf.LAB,pf.SNP,pf.OTHER,s.CON,s.LAB,s.SNP,s.OTHER
-0,"['gap', 'gender', 'employers', 'equality', 'sector', 'reporting', 'tax', 'impact', 'hon', 'low']",58.6,27.9,9.6,3.9,29.2,21.4,18.2,22.9,0.26,-0.27,-0.27,-0.18
-1,"['member', 'forces', 'constituency', 'jo', 'building', 'today', 'speech', 'north', 'thank', 'like']",46.0,40.1,9.9,4.0,8.2,10.9,6.7,8.3,0.43,0.29,0.4,0.34
-2,"['countries', 'debate', 'progress', 'conversion', 'lgbtq', 'ban', 'just', 'hon', 'therapy', 'house']",49.6,29.8,17.0,3.6,13.7,12.6,17.9,11.8,0.24,-0.12,-0.14,-0.15
-3,"['trade', 'agreement', 'eu', 'development', 'chancellor', 'people', 'spending', 'climate', '000', 'aid']",37.3,38.6,19.8,4.3,7.1,11.3,14.3,9.7,0.33,-0.25,-0.12,-0.55
-4,"['amendment', 'subsection', 'convention', 'women', 'clause', 'page', 'based', 'rape', 'insert', 'act']",49.8,30.2,12.7,7.3,9.7,9.0,9.4,16.7,-0.01,-0.27,-0.02,-0.33
-5,"['online', 'bullying', 'young', 'relationships', 'curriculum', 'pupils', 'lgbt', 'content', 'ofsted', 'primary']",41.2,44.5,8.5,5.8,8.0,13.3,6.3,13.2,0.07,-0.29,-0.28,-0.25
-6,"['transgender', '2004', 'equalities', 'committee', 'certificate', 'care', 'prisons', 'nhs', 'hon', 'information']",55.0,26.5,15.7,2.8,11.3,8.4,12.3,6.9,0.21,-0.1,-0.08,-0.48
-7,"['member', 'gender', 'hon', 'debate', 'right', 'friend', 'need', 'year', 'pay', 'mps']",51.1,31.7,14.1,3.2,8.5,8.1,9.0,6.2,0.35,0.13,0.06,0.33
-8,"['proscription', 'hate', 'isil', 'proscribed', 'intelligence', 'attacks', 'fkd', 'crime', 'airstrikes', 'united']",48.3,33.3,13.8,4.6,2.5,2.6,2.7,2.8,-0.3,-0.34,-0.18,-0.2
-9,"['grassroots', 'rugby', 'premier', 'homophobia', 'stadium', 'posh', 'hamlet', 'fc', 'dulwich', 'peterborough']",43.2,35.1,18.9,2.7,1.9,2.3,3.1,1.4,0.27,-0.25,-0.18,0.34
+0,"['gap', 'pay', 'reporting', 'employers', 'gender', 'companies', 'publish', 'equal', 'transparency', 'employees']",67.0,22.9,6.1,4.0,27.5,14.9,10.3,16.9,0.2,-0.32,-0.35,-0.01
+1,"['womens', 'women', 'female', 'day', 'woman', 'international', 'boards', 'ftse', 'mps', 'girls']",54.3,31.4,9.0,5.2,15.8,14.5,10.9,15.5,0.44,0.14,0.23,-0.13
+2,"['tax', 'budget', 'chancellor', 'billion', 'economy', 'spending', 'wage', 'investment', 'growth', 'allowance']",38.7,41.4,17.7,2.2,10.0,16.9,19.0,5.6,0.42,-0.28,-0.22,-0.58
+3,"['pride', 'lgbt', 'conversion', 'therapy', 'ban', 'gay', 'wallasey', 'trans', 'month', 'hate']",48.9,35.0,12.2,3.9,12.2,13.8,12.6,9.9,0.35,0.15,0.14,-0.08
+4,"['trans', 'transgender', 'recognition', 'lbt', 'identity', '2004', 'healthcare', 'nonbinary', 'equalities', 'health']",54.4,25.9,17.7,1.9,11.9,9.0,16.1,4.2,0.33,-0.14,0.08,-0.22
+5,"['pension', 'pensions', 'pensioners', 'master', 'retirement', 'schemes', 'age', 'state', 'expectancy', 'enrolment']",40.8,19.7,28.2,11.3,4.0,3.1,11.5,11.3,0.29,-0.3,-0.55,0.14
+6,"['northern', 'ireland', 'belfast', 'lyra', 'assembly', 'marriage', 'autism', 'helens', 'mcginn', 'abortion']",19.0,36.5,17.5,27.0,1.7,5.1,6.3,23.9,0.18,0.05,0.06,-0.16
+7,"['commonwealth', 'brunei', 'games', 'chogm', 'heads', 'cpa', 'chairinoffice', 'countries', 'secretariat', 'meeting']",56.5,30.4,11.6,1.4,5.4,4.6,4.6,1.4,0.35,-0.15,0.05,-0.91
+8,"['schools', 'ofsted', 'school', 'pupils', 'curriculum', 'teach', 'parents', 'teaching', 'relationships', 'primary']",45.7,46.7,1.9,5.7,6.6,10.8,1.1,8.5,0.24,-0.17,-0.03,-0.24
+9,"['development', 'aid', 'dfid', 'yemen', 'goals', 'climate', 'poverty', 'global', 'oda', 'african']",42.9,39.3,15.5,2.4,5.0,7.3,7.5,2.8,0.38,-0.08,0.17,-0.31
