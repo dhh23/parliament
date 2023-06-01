@@ -1,0 +1,11 @@
+topic,keywords,tc.SDS,tc.SD,tc.OTHER,pf.SDS,pf.SD,pf.OTHER,s.SDS,s.SD,s.OTHER
+0,"['kosova', 'gospodje', 'gospe', 'slovenijo', 'naroda', 'vojne', '1991', 'vrednote', 'mzz', 'suverenost']",30.0,5.7,64.4,8.6,4.2,8.7,-0.36,-0.33,-0.31
+1,"['evropa', 'val', 'migrantsko', 'ograjo', 'slovenija', 'meja', 'ljudi', 'varnost', 'držav', 'unije']",39.6,6.4,54.0,18.8,7.8,12.0,-0.64,-0.37,-0.51
+2,"['bom', 'ministra', 'zakaj', 'gospa', 'vlade', 'notranje', 'interpelacije', 'nisem', 'baričevič', 'povedal']",30.3,13.1,56.7,26.9,29.9,23.6,-0.65,-0.57,-0.64
+3,"['policijskih', 'organiziranosti', 'nalog', 'notranje', 'generalnega', 'prisilnih', 'direktor', 'pristojnosti', 'paralizator', 'električni']",17.4,14.0,68.6,4.7,9.9,8.8,-0.33,-0.31,-0.33
+4,"['1942', 'referenduma', 'tigr', 'sodišča', 'kmetijsko', 'demokratske', 'gradov', 'slovenske', 'stališče', 'bom']",27.4,12.2,60.4,6.2,7.2,6.5,-0.53,-0.45,-0.51
+5,"['rast', '2003', 'primanjkljaj', 'proračunu', 'bdp', 'milijard', 'računsko', '2009', 'proizvoda', 'zaključnega']",20.9,12.1,67.0,6.6,9.9,10.0,-0.29,-0.42,-0.33
+6,"['ratifikacijo', 'unija', 'eu', 'zavezništvo', 'slovenija', 'deklaracija', 'zahodnega', 'vstop', 'evrope', 'širitev']",18.3,9.2,72.5,5.6,7.2,10.3,0.03,0.13,0.02
+7,"['orožje', 'pirotehničnih', 'direktive', 'športa', 'obrambe', 'zvoka', 'kosov', 'predsedstvo', 'uporabo', 'kasetnega']",19.7,10.2,70.1,3.6,4.8,6.0,-0.26,0.04,-0.13
+8,"['slovenijo', 'sporazum', 'evropi', 'vsi', 'nova', 'bodo', 'kulturo', 'besede', 'projektov', 'vladi']",25.2,13.0,61.8,3.6,4.8,4.1,-0.53,-0.2,-0.22
+9,"['komisije', 'preiskavo', 'funkcij', 'poročila', 'posel', 'viator', 'obveščevalnih', '8x8', 'parlamentarni', 'banke']",36.7,13.4,49.9,15.5,14.6,9.9,-0.55,-0.53,-0.56
